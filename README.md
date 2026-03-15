@@ -1,4 +1,4 @@
-MSG-Net: Structure-Guided Underwater Image Enhancement
+# MSG-Net: Structure-Guided Underwater Image Enhancement
 
 Official PyTorch implementation of MSG-Net proposed in our paper:
 
